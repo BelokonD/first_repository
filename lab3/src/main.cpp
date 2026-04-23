@@ -12,7 +12,7 @@ int main() {
     system.addFine(f2);
     system.addFine(f3);
 
-    std::cout << "Total fines: " << system.calculateTotal() << " ₴" << std::endl;
+    std::cout << "Total fines: " << system.calculateTotal() << " UAH" << std::endl;
 
     return 0;
 }
